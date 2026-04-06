@@ -1,0 +1,44 @@
+# Terraform
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/crash.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Streamlit
+app/.streamlit/secrets.toml
+
+# Databricks
+databricks/.databricks/
+*.dbc
+
+# GCP
+gcp/service-account-key.json
+*.json.key
+
+# AWS
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MLflow
+mlruns/
+mlflow.db
