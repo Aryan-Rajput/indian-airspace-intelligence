@@ -97,7 +97,7 @@ def write_to_s3(records, bucket, ingetsion_ts):
 
     
 # main func
-def main():
+def main(request):
     # loading secrets
     creds = get_secrets("airspace/opensky")
     token_mgr = TokenManager(
