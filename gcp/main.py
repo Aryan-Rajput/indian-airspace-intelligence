@@ -58,28 +58,32 @@ def write_to_s3(records, ingestion_ts):
 
 def main(request):
     try:
+        print("STEP 1: Fetching creds from Secrets Manager")
         username, password = get_opensky_creds()
+        print(f"STEP 2: Got creds for user: {username}")
 
         response = requests.get(
             OPENSKY_URL,
             params=INDIA_BBOX,
-            auth=(username, password),
             timeout=25
         )
+        print(f"STEP 3: OpenSky response status: {response.status_code}")
         response.raise_for_status()
 
         data = response.json()
         raw_states = data.get("states") or []
         ingestion_ts = data.get("time") or datetime.now(timezone.utc).timestamp()
+        print(f"STEP 4: Got {len(raw_states)} states from OpenSky")
 
         if not raw_states:
             print("No states returned from OpenSky. Returning 200.")
             return ("OK", 200)
 
         records = parse_states(raw_states, ingestion_ts)
+        print(f"STEP 5: Parsed {len(records)} records, writing to S3")
         write_to_s3(records, ingestion_ts)
-
-        print(f"Success: {len(records)} flights ingested.")
+    
+        print(f"STEP 6: Success")
         return ("OK", 200)
 
     except Exception as e:
