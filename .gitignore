@@ -23,6 +23,7 @@ databricks/.databricks/
 
 # GCP
 gcp/service-account-key.json
+rejected*
 *.json.key
 
 # AWS
