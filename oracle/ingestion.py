@@ -4,6 +4,7 @@ import requests
 from datetime import datetime, timezone
 import logging
 import sys
+import time
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -11,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s %(levelname)s %(message)s",
     handlers=[
-        logging.FileHandler(r"C:\Users\aryrajpu\Desktop\All_folders\vs_py\indian-airspace-intelligence\oracle\ingestion.log"),
+        # logging.FileHandler(r"C:\Users\aryrajpu\Desktop\All_folders\vs_py\indian-airspace-intelligence\oracle\ingestion.log"),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -52,8 +53,8 @@ def write_to_s3(records, ingestion_ts):
         f"flights_{int(ingestion_ts)}.json"
     )
     jsonl_body = "\n".join(json.dumps(r) for r in records)
-    session = boto3.Session(profile_name="airspace")
-    s3 = session.client("s3", region_name=AWS_REGION)
+
+    s3 = boto3.client("s3", region_name=AWS_REGION)
     s3.put_object(
         Bucket=S3_BUCKET,
         Key=s3_key,
@@ -96,4 +97,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    while True:
+        main()
+        time.sleep(120)  # Sleep for 2 minutes before next fetch
