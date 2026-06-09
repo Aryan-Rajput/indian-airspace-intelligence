@@ -1,0 +1,287 @@
+Name,ICAO,IATA,Latitude,Longitude,Type
+RAEDHANPUR,,,68.891(E),9000 ft,Small
+KESHOD,VAKS,IXK,70.270(E),4500 ft,Medium
+JAISALMER,VIJR,JSA,70.865(E),9000 ft,Medium
+UTTARLAI,VIUT,,71.482(E),9002 ft,Small
+AGATTI,VOAT,AGX,72.176(E),4235 ft,Medium
+DEESA,VADS,,72.204(E),3300 ft,Small
+SURAT,VASU,STV,72.742(E),3600 ft,Medium
+DAMAN,VADN,NMB,72.843(E),5909 ft,Medium
+Salwas,,,73.097(E),,Closed
+Airport,,,73.103(E),,Small
+RATNAGIRI,VARG,RTC,73.328(E),4500 ft,Medium
+NAGAUR,,,73.711(E),3853 ft,Small
+SURATGARH NEW,,,73.904(E),8990 ft,Small
+KARAD,,,74.158(E),4200 ft,Small
+KOLHAPUR,VAKP,KLH,74.289(E),4495 ft,Medium
+ONDWA,,,74.611(E),3895 ft,Small
+BHATINDA,VIBT,BUP,74.756(E),9200 ft,Medium
+NIMACH,,,74.868(E),3610 ft,Small
+AWANTIPUR,VIAW,,74.976(E),10500 ft,Small
+SIRSA,VISA,,75.006(E),8987 ft,Medium
+RATLAM,,,75.026(E),3753 ft,Small
+UDHAMPUR,VIUX,,75.156(E),9000 ft,Medium
+JALLOWAL,,,75.341(E),4010 ft,Small
+JHUNJHUNU,,,75.376(E),4567 ft,Small
+BIRLAGRAM,,,75.420(E),4724 ft,Small
+Khargon Govt. Airstrip,,,75.554(E),,Small
+PILANI NEW,,,75.594(E),3825 ft,Small
+HALWARA,VIHX,,75.630(E),8985 ft,Small
+PATHANKOT,VIPK,IXP,75.635(E),8970 ft,Medium
+HISSAR,VIHR,HSS,75.755(E),4000 ft,Medium
+ADAMPUR,VIAX,,75.759(E),9039 ft,Small
+HARIHAR,,,75.787(E),4893 ft,Small
+LUDHIANA,VILD,LUH,75.953(E),4615 ft,Medium
+KARGIL,,,76.156(E),6004 ft,Small
+BHIWANI,VIBW,,76.179(E),3500 ft,Small
+BHILWARA,,,76.205(E),3480 ft,Small
+PATIALA,VIPL,,76.364(E),3830 ft,Small
+Vijayanagar Aerodrome (JSW),,VDY,76.635(E),,Small
+AMBALA,VIAM,,76.817(E),9224 ft,Medium
+KALKA,,,76.892(E),3068 ft,Small
+KARNAL,,,77.038(E),3000 ft,Small
+AKOLA,VAAK,AKD,77.059(E),3985 ft,Medium
+SHIMLA,VISM,SLV,77.068(E),4035 ft,Small
+KULLU MANALI,VIBR,KUU,77.154(E),3690 ft,Medium
+GUNA,VAGN,GUX,77.347(E),2982 ft,Medium
+HINDON,VIDX,,77.359(E),9000 ft,Small
+THOISE,,,77.376(E),10000 ft,Small
+SARSAWA,VISP,,77.425(E),9000 ft,Small
+BIDAR,VOBR,,77.487(E),6955 ft,Medium
+Jakkur Airfield,,,77.598(E),,Small
+MEERUT SW,,,77.677(E),5124 ft,Small
+HOSUR,,,77.767(E),3985 ft,Small
+Kayathar Airstrip,,,77.821(E),,Closed
+KOVILPATTI,,,77.821(E),3967 ft,Small
+Daulat Beg Oldi Advanced Landing Ground,,,77.929(E),,Small
+AGRA,VIAG,AGR,77.961(E),9000 ft,Medium
+TUTICORIN SOUTHWEST,,TCR,78.026(E),4434 ft,Small
+AMLA,,,78.114(E),2279 ft,Small
+BAND TAL,,,78.262(E),4027 ft,Small
+BHARKOT,,,78.323(E),3285 ft,Small
+HAKIMPET,VOHK,,78.525(E),6873 ft,Small
+JHANSI,VIJN,,78.558(E),3630 ft,Small
+Nadirgul Airport,,,78.560(E),,Small
+CUDDAPAH,VOCP,CDP,78.773(E),3600 ft,Medium
+Chettinad Airstrip,,,78.794(E),,Closed
+DHANA,,,78.856(E),3260 ft,Small
+THUNIABHAND,,,78.917(E),3785 ft,Small
+CHINDWARA AIRFIELD,,,78.930(E),,Small
+FUKCHE,,,79.213(E),9002 ft,Small
+CHANDA,,,79.222(E),3128 ft,Small
+NAGARJUNA SAGAR,VONS,,79.319(E),5050 ft,Small
+Ulundurpet Airstrip,,,79.321(E),,Closed
+ARKONAM,VOAR,,79.691(E),12800 ft,Small
+PONDICHERRY,VOPC,PNY,79.810(E),3983 ft,Medium
+JABALPUR,VAJB,JLR,80.052(E),6522 ft,Medium
+Cholavaram Airstrip,,,80.152(E),,Closed
+KALYANPUR,,,80.233(E),2880 ft,Small
+PITHORGARH,VIDF,,80.239(E),4335 ft,Small
+GONDIA,,,80.290(E),5625 ft,Small
+KANPUR,VIKA,KNU,80.365(E),2995 ft,Medium
+kanha,,,80.596(E),,Closed
+VIJAYAWADA,VOBZ,VGA,80.797(E),5725 ft,Medium
+SATNA,VIST,TNI,80.855(E),3476 ft,Medium
+BHILAI,,,81.379(E),3900 ft,Small
+FURSATGANJ,VIRB,,81.381(E),5650 ft,Small
+BURHAR,,,81.504(E),3670 ft,Small
+SIDHI,,,81.815(E),3540 ft,Small
+Sultanpur,,,82.043(E),,Small
+BILASPUR,VABI,PAB,82.111(E),5035 ft,Medium
+AKBARPUR,,,82.568(E),4260 ft,Small
+MUIRPUR,,,83.041(E),4665 ft,Small
+UTKELA,VEUK,,83.184(E),3000 ft,Small
+Raigarh Airport (JSPL),,,83.350(E),,Small
+Vedanta Lanjigarh Airstrip,,,83.394(E),,Small
+NUAGAON,,,83.448(E),4100 ft,Small
+no airport,,,83.483(E),,Closed
+JHARSUGUDA,VEJH,,84.050(E),6320 ft,Small
+DALTONGANJ,,,84.095(E),3000 ft,Small
+ROURKELA,VERK,RRK,84.815(E),5542 ft,Medium
+Raxaul Airport,VERL,,84.833(E),,Small
+GAYA,VEGY,GAY,84.951(E),7500 ft,Medium
+Angul Airport (JSPL),,,85.033(E),,Small
+MUZAFFARPUR,VEMZ,MZU,85.314(E),3990 ft,Medium
+Barbil Aerodrome (JSPL),,,85.374(E),,Small
+Noamundi Airport,,,85.549(E),,Small
+KEONJHAR AIRPORT,VEKJ,,85.582(E),,Small
+Jajpur ( Sukinda ) Airstrip,,,85.754(E),,Small
+CUTTACK,,,85.886(E),9000 ft,Small
+DARBHANGA,,,85.917(E),9000 ft,Small
+Madhubani Airport,,,86.060(E),,Small
+JAMSHEDPUR,VEJS,IXW,86.169(E),3540 ft,Medium
+GIRIDIH,,,86.290(E),3015 ft,Small
+DHANBAD,VEDB,DBD,86.425(E),3728 ft,Medium
+saharsa airstrip,,,86.582(E),,Small
+Deoghar Airstrip,,,86.707(E),,Small
+Chakulia Airport,VECK,,86.708(E),,Small
+BURNPUR,,,86.976(E),4010 ft,Small
+Dudhkundi Airfield,,,87.107(E),,Closed
+KALAIKUNDA,VEDX,,87.214(E),9000 ft,Small
+Piardoba Airfield,,,87.300(E),,Closed
+Pandaveswar Airfield,,,87.349(E),,Closed
+Bishnupur Airfield,,,87.355(E),,Closed
+PURNEA,VEPU,,87.410(E),8700 ft,Small
+PANAGARH,VEPH,,87.428(E),8700 ft,Medium
+Guskhara Airfield,,,87.794(E),,Closed
+Pakyong Airport (Under Construction),,,88.587(E),,Small
+COOCH BEHAR,VECO,COH,89.467(E),3500 ft,Small
+Rupsi India Airport,VERU,RUP,89.910(E),,Small
+Baljek Airport,,,90.345(E),,Small
+Kamalpur Airport,VEKM,IXQ,91.814(E),,Small
+KAILASHAHAR,VEKR,IXH,92.007(E),3300 ft,Medium
+TEZPUR,VETZ,TEZ,92.785(E),9010 ft,Medium
+CARNICOBAR,VOCX,CBD,92.820(E),8914 ft,Medium
+ZERO,VEZO,ZER,93.828(E),4010 ft,Medium
+CAMPBELL BAY,,,93.923(E),3445 ft,Small
+Koirengei Airstrip,,,93.926(E),,Closed
+MACHUKA,,,94.124(E),4395 ft,Small
+ALONG,VEAN,IXV,94.802(E),915 ft,Medium
+Dinjan Airfield,,,95.269(E),,Closed
+SOOKERATING,,,95.571(E),6595 ft,Small
+Ledo Airfield,,,95.737(E),,Closed
+CHAUKAN PASS,,,97.004(E),3980 ft,Small
+Walong Advanced Landing Ground,,,97.020(E),,Small
+Aamby Valley Airport,,,73.378(E),,Small
+AGARTALA,VEAT,IXA,91.240(E),7500 ft,Medium
+AHMEDABAD,VAAH,AMD,72.635(E),11447 ft,Medium
+LENGPUI,VELP,AJL,92.620(E),8202 ft,Medium
+Akli Airport,,,70.294(E),,Small
+Dhanipur Airstrip,VIAH,,78.147(E),,Small
+ALLAHABAD,VIAL,IXD,81.734(E),8110 ft,Medium
+Amravati (Belora) Airstrip,,,77.718(E),,Small
+Amreli Airstrip,,,71.223(E),,Small
+Luton,,NLE,0.000(E),,Small
+AMRITSAR,VIAR,ATQ,74.797(E),10791 ft,Large
+AURANGABAD,VAAU,IXU,75.398(E),7713 ft,Medium
+Balurghat Airport,VEBG,RGH,88.796(E),,Small
+BANGALORE,VOBG,,77.668(E),10850 ft,Medium
+Kempegowda International Airport,VOBL,BLR,77.706(E),,Large
+BAREILLY,VIBY,BEK,79.451(E),9000 ft,Medium
+BARRACKPORE,,,88.359(E),6116 ft,Small
+Behala Airport,VEBA,,88.293(E),,Small
+BELGAUM,VABM,IXG,74.618(E),4786 ft,Medium
+BELLARY,VOBI,BEP,76.883(E),3630 ft,Medium
+Bhagalpur Airport,,,87.010(E),,Closed
+BHAVNAGAR,VABV,BHU,72.185(E),6300 ft,Medium
+BHOPAL,VABP,BHO,77.337(E),6700 ft,Medium
+BHUBANESHWAR,VEBS,BBI,85.818(E),7359 ft,Medium
+BHUJ,VABJ,BHJ,69.670(E),8205 ft,Medium
+NAL,VIBK,BKB,73.207(E),8960 ft,Medium
+CHANDIGARH,VICG,IXC,76.789(E),9001 ft,Medium
+TAMBARAM,VOTX,,80.122(E),5965 ft,Small
+COCHIN INTL,VOCI,COK,76.402(E),11155 ft,Large
+COIMBATORE,VOCB,CJB,77.043(E),8480 ft,Medium
+GOA,VAGO,GOI,73.831(E),11345 ft,Large
+Daporijo Airport,VEDZ,DEP,94.223(E),,Small
+DEHRADUN,VIDN,DED,78.180(E),3405 ft,Medium
+INDIRA GANDHI INTL,VIDP,DEL,77.103(E),12500 ft,Large
+SAFDARJUNG,VIDD,,77.206(E),4260 ft,Medium
+Dhubulia Airstrip,,,88.454(E),,Closed
+DIBRUGARH,VEMN,DIB,95.017(E),6000 ft,Medium
+CHABUA,VECA,,95.118(E),9003 ft,Small
+Digri Airstrip,,,87.362(E),,Closed
+DIMAPUR,VEMR,DMU,93.771(E),7513 ft,Medium
+DIU,,DIU,70.921(E),5980 ft,Small
+Sido Kanhu Airport,,,87.270(E),,Small
+Dunakonda Airport,VODK,,79.488(E),,Closed
+Kazi Nazrul Islam Airport,VEDG,RDP,87.243(E),,Medium
+Durgapur Steel Plant Airport,,,87.340(E),,Small
+Faizabad Airport,,,82.154(E),,Small
+KANGRA,VIGG,DHM,76.263(E),4620 ft,Medium
+GORAKHPUR,VEGK,GOP,83.450(E),9000 ft,Medium
+GUWAHATI INTL,VEGT,GAU,91.586(E),9000 ft,Medium
+GWALIOR,VIGR,GWL,78.228(E),9000 ft,Medium
+"Kopal,Hospet Airport",,,76.517(E),,Small
+HUBLI,VAHB,HBX,75.085(E),5304 ft,Medium
+DUNDIGUL,VODG,,78.403(E),8250 ft,Medium
+Rajiv Gandhi International Airport,VOHS,HYD,78.430(E),,Large
+HYDERABAD,VOHY,BPM,78.468(E),9025 ft,Medium
+IMPHAL,VEIM,IMF,93.897(E),9009 ft,Medium
+DEVI AHILYABAI HOLKAR,VAID,IDR,75.801(E),7480 ft,Medium
+JAGDALPUR,,JGB,82.037(E),5600 ft,Small
+JAIPUR,VIJP,JAI,75.812(E),9177 ft,Medium
+HASHIMARA,,,89.369(E),9000 ft,Medium
+JAMMU,VIJU,IXJ,74.837(E),6555 ft,Medium
+JAMNAGAR,VAJM,JGA,70.013(E),8242 ft,Medium
+Jeypore Airport,VEJP,PYB,82.552(E),,Small
+JODHPUR,VIJO,JDH,73.049(E),9005 ft,Medium
+JORHAT,VEJT,JRH,94.176(E),8875 ft,Medium
+Kalyan airstrip,,,73.139(E),,Closed
+Kanchrapara Airfield,,,88.460(E),,Closed
+KANDLA,VAKE,IXY,70.100(E),4997 ft,Medium
+KANPUR CHAKERI,VICX,,80.410(E),8216 ft,Small
+CALICUT,VOCL,CCJ,75.955(E),9383 ft,Large
+KHAJURAHO,VAKJ,HJR,79.919(E),7460 ft,Medium
+Khandwa Airport,,,76.337(E),,Small
+Khowai Airport,VEKW,IXN,91.604(E),,Small
+COCHIN,VOCC,,76.273(E),5620 ft,Small
+NETAJI SUBHASH CHANDRA BOSE INTL,VECC,CCU,88.447(E),11900 ft,Large
+Koppal Aerodrome,VOKP,,76.219(E),,Small
+KOTA,VIKO,KTU,75.846(E),4078 ft,Medium
+SILCHAR,VEKU,IXS,92.979(E),5993 ft,Medium
+Lalitpur Airport,VILP,,78.417(E),,Small
+MUROD KOND,,,76.465(E),5260 ft,Medium
+LUCKNOW,VILK,LKO,80.889(E),8996 ft,Medium
+BAKSHI KA TALAB,VIBL,,80.893(E),8990 ft,Small
+Shibpur Airstrip,,,93.050(E),,Small
+CHENNAI INTL,VOMM,MAA,80.181(E),12001 ft,Large
+MADURAI,VOMD,IXM,78.093(E),5990 ft,Medium
+Malda Airport,VEMH,LDA,88.133(E),,Small
+MANGALORE,VOML,IXE,74.890(E),5300 ft,Medium
+BOKARO,VEBK,,86.149(E),5300 ft,Small
+Juhu Aerodrome,VAJJ,,72.834(E),,Small
+CHHATRAPATI SHIVAJI INTL,VABB,BOM,72.868(E),10837 ft,Large
+Mysore Airport,VOMY,MYQ,76.650(E),,Small
+DR AMBEDKAR INTL,VANP,NAG,79.047(E),10500 ft,Medium
+NANDER,,NDC,77.318(E),4510 ft,Medium
+NASIK ROAD,VANR,,73.808(E),4520 ft,Closed
+NAWAPARA,VENP,,82.520(E),3380 ft,Small
+Neyveli Airport,,NVY,79.527(E),,Small
+LILABARI,VELR,IXI,94.098(E),7500 ft,Medium
+Osmanabad Airport,,OMN,76.057(E),,Small
+PANTNAGAR,VIPT,PGH,79.474(E),3600 ft,Medium
+Pasighat Airport,VEPG,IXT,95.336(E),,Small
+PATNA,VEPT,PAT,85.088(E),5970 ft,Medium
+Poonch Airport,,,74.084(E),,Small
+PORBANDAR,VAPR,PBD,69.657(E),4500 ft,Medium
+PORT BLAIR,VOPB,IXZ,92.730(E),10795 ft,Medium
+SRI SATHYA SAI,VOPN,PUT,77.791(E),7315 ft,Medium
+PUNE,VAPO,PNQ,73.920(E),8329 ft,Medium
+Baramati Airport,,,74.591(E),,Small
+Charra Airfield,,,86.437(E),,Closed
+RAIPUR,VARP,RPR,81.739(E),6414 ft,Small
+RAJAHMUNDRY,VORY,RJA,81.818(E),5710 ft,Medium
+RAJKOT,VARK,RAJ,70.780(E),5740 ft,Medium
+RAJAORI,,,74.315(E),3300 ft,Small
+Basanth Nagar Airport,VORG,RMD,79.392(E),,Small
+Ramnad Naval Air Station,VORM,,78.971(E),,Small
+Surichua Air Base,,,87.702(E),,Small
+BIRSA MUNDA,VERC,IXR,85.322(E),8855 ft,Medium
+Rasgovindpur Airstrip,,,87.047(E),,Closed
+CHORHATA,,,81.220(E),3940 ft,Small
+Korba Airport,,,82.719(E),,Small
+SALEM,VOSM,SXV,78.066(E),5925 ft,Medium
+HIRAKUD,VEHK,,84.006(E),4185 ft,Small
+BARAPANI,VEBI,SHL,91.979(E),6000 ft,Medium
+Shirpur Airport,,,74.957(E),,Small
+BAGDOGRA,VEBD,IXB,88.329(E),9035 ft,Medium
+SHOLAPUR,VASL,SSE,75.935(E),4472 ft,Medium
+SRINAGAR,VISR,SXR,74.774(E),12090 ft,Medium
+SULUR,VOSX,,77.160(E),8255 ft,Small
+TEJU NEW,,TEI,96.134(E),4505 ft,Small
+TANJORE,VOTJ,TJV,79.102(E),5680 ft,Small
+TIRUCHIRAPPALLI,VOTR,TRZ,78.710(E),6115 ft,Medium
+TIRUPATI,VOTP,TIR,79.543(E),7500 ft,Small
+THIRUVANANTHAPURAM INTL,VOTV,TRV,76.920(E),10626 ft,Large
+UDAIPUR,VAUD,UDR,73.896(E),7484 ft,Medium
+BENTAYAN,,,75.885(E),3491 ft,Small
+Umaria Air Field,,,80.808(E),,Small
+VADODARA,VABO,BDQ,73.226(E),8100 ft,Medium
+Vanasthali Airport,,,75.870(E),,Small
+VARANASI,VIBN,VNS,82.859(E),7238 ft,Medium
+Vellore Airport,VOVR,,79.067(E),,Small
+Vijay Nagar Airport,,,73.841(E),,Small
+VISHAKHAPATNAM,VEVZ,VTZ,83.224(E),6000 ft,Small
+Warangal Airport,VOWA,WGC,79.602(E),,Small
+YELAHANKA,VOYK,,77.606(E),6690 ft,Small
