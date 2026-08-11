@@ -52,7 +52,7 @@ Infrastructure (S3, IAM, Secrets Manager) is provisioned via Terraform.
   - `gold_route_network` - infers airport pairs from trajectory data (takeoff/landing detected via `on_ground` state flips, matched to nearest known Indian airport by coordinates), with route-level flight count, average duration, speed, and altitude
   - `gold_delay_propagation` - links consecutive legs flown by the same aircraft (`icao24`), compares actual landing time against the historical route average, and flags downstream legs as at-risk when a leg lands more than 15 minutes late
 
-## Known architectural constraint (the actual interesting part)
+## Known architectural constraints
 
 OpenSky blocklists datacenter IP ranges from major cloud providers. This was diagnosed through direct testing, not assumption:
 
@@ -72,7 +72,7 @@ A residential ISP IP is not blocklisted, which is why ingestion currently runs f
 - **XGBoost flight phase classifier (secondary model)** - Silver already assigns `flight_phase` using rule-based logic; training a classifier on raw telemetry to predict the same label is a way to validate that rule-based logic against a learned model.
 - **Streamlit over a Databricks SQL dashboard** - the dashboard needs to render a live flight map and a route network graph, which Databricks SQL Dashboard can't do. Streamlit Cloud is free and gives a public URL to link from the resume.
 
-## Next step (exactly where I left off)
+## Next steps 
 
 1. Build the MLflow layer: a Linear Regression model predicting cascading delay in minutes from `gold_delay_propagation`, and an XGBoost flight phase classifier trained on Silver telemetry. Track both with MLflow experiment tracking and register in the Model Registry.
 2. Build the Streamlit dashboard: live flight map (color-coded by flight phase), carrier performance panel, route network graph (from `gold_route_network`), and a delay propagation risk panel (from `gold_delay_propagation`).
