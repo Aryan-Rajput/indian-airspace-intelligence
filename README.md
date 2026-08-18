@@ -6,7 +6,7 @@ Real-time ingestion and analytics platform for Indian airspace, built on live AD
 
 ## Why this project exists
 
-I wanted to work with a real streaming data source instead of a static dataset, and pick something with an actual constraintd to solve rather than a clean tutorial setup so a live flight telemetry over India was picked by me a genuine infrastructure blocker that had to be diagnosed and worked around.
+I wanted to work with a real streaming data source instead of a static dataset, and pick something with an actual constraintd to solve rather than a clean tutorial setup so a live flight telemetry over India was picked by me.
 
 ---
 
@@ -60,7 +60,7 @@ OpenSky blocklists datacenter IP ranges from major cloud providers. This was dia
 - GCP (dynamic IP) - blocked
 - GCP (static NAT IP) - also blocked
 
-A residential ISP IP is not blocklisted, which is why ingestion currently runs from a local machine rather than a cloud VM. This is a known limitation, not an oversight - the production fix is a non-hyperscaler host (e.g. a Hetzner VPS), which sits outside the blocked CIDR ranges.
+A residential ISP IP is not blocklisted, which is why ingestion currently runs from a local machine rather than a cloud VM. This is a known limitation, not an oversight - the production fix is a non-hyperscaler host (e.g. a Hetzner VPS), which sits outside the blocked CIDR ranges, However I have yet to confirm if it will work on it or no.
 
 ## Design decisions
 
