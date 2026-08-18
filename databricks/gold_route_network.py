@@ -3,13 +3,20 @@ from pyspark.sql import functions as F, Window
 from pyspark.sql.Types import DoubleType
 import math
 
+# Calculate distance (in km) between two latitude/longitude points
+# Used later to find the nearest airport to a flight location
+
 @F.udf(returnType=DoubleType())
 def haversine(lon1, lat1, lon2, lat2):
   R = 6371
   phi1 = math.radians(lat1)
   phi2 = math.radians(lat2)
+
+  # Difference in latitude and longitude
   dphi = phi2 - phi1
   dlambda = math.radians(lon2 - lon1)
+  
+  # Haversine formula for great-circle distance
   dist = R * 2 * math.atan(
     math.sqrt(
       math.sin(dphi/2)**2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda/2)**2
