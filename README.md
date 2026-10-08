@@ -56,6 +56,8 @@ Infrastructure (S3, IAM, Secrets Manager) is provisioned via Terraform.
 
 OpenSky blocklists datacenter IP ranges from major cloud providers. This was diagnosed through direct testing, not assumption:
 
+![Project_Architecture](./assets/indian-airspace-pipeline-architecture.drawio.svg)
+
 - AWS (EC2) - blocked
 - GCP (dynamic IP) - blocked
 - GCP (static NAT IP) - also blocked
